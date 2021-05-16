@@ -1,9 +1,9 @@
 <h1 align="center">Human Resources Project</h1>
 <p align="center"> Backend of the Human Resources Project created with java and React</p>
   <p align="center">
-  <a href="https://github.com/maliyalcin/hrms-project-backend"><img src="https://user-images.githubusercontent.com/64991411/118403649-1768b180-b678-11eb-8c63-aec14ba3f799.png" height="250"></a>
+  <a href="https://github.com/maliyalcin/hrms-project-backend"><img src="https://user-images.githubusercontent.com/64991411/118404013-d6719c80-b679-11eb-8544-f9525eba4a43.png" height="250"></a>
+  <h1 align="center">HRMS Company</h1>
 </p>
-
 
 
 ### Used Programs
