@@ -24,3 +24,5 @@ public class SystemPersonnel extends User{
 	@Column(name = "last_name")
 	private String lastName;
 }
+
+
